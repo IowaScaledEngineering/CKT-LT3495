@@ -1,0 +1,4 @@
+schematics ckt-lt3495.sch
+output-name ../pcb/ckt-lt3495
+skip-m4
+elements-dir ../../footprints
